@@ -1,2 +1,3 @@
 "Meu primeiro arquivo no Git" 
 "Aprendendo o ciclo add -> commit -> log"
+"Testando uma mudança dentro de uma branch separada"
