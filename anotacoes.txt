@@ -1,1 +1,2 @@
 "Meu primeiro arquivo no Git" 
+"Aprendendo o ciclo add -> commit -> log"
