@@ -2,3 +2,4 @@
 "Aprendendo o ciclo add -> commit -> log"
 "Testando uma mudança dentro de uma branch separada"
 "Testando o atalho commit -am"
+"Testando o --amend"
